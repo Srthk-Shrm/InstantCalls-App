@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "146810748297",
+    "project_id": "signin-16dea",
+    "storage_bucket": "signin-16dea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146810748297:android:47ae4f7ed818943bc83558",
+        "android_client_info": {
+          "package_name": "com.viserion02.basic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146810748297-r42ai47opfchcavt1rg48t5kujuogak8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.viserion02.basic",
+            "certificate_hash": "ab63515f748bef7fa84ac34cefd6c310b07f0cea"
+          }
+        },
+        {
+          "client_id": "146810748297-64i7qeuu7jumjn3lj8i1briba1j02ugg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO9TlGAII1Alze9vFDD0eRcx5-1D-LBqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146810748297-64i7qeuu7jumjn3lj8i1briba1j02ugg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
